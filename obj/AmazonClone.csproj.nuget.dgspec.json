@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\AmazonClone.csproj": {}
+    "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj": {}
   },
   "projects": {
-    "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\AmazonClone.csproj": {
+    "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\AmazonClone.csproj",
+        "projectUniqueName": "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj",
         "projectName": "AmazonClone",
-        "projectPath": "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\AmazonClone.csproj",
+        "projectPath": "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj",
         "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-        "outputPath": "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\obj\\",
+        "outputPath": "C:\\My Directory\\Github\\mysql-authenticator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

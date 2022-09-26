@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewdOvczJya4dMMcps71Rzryfz+MpvtDqHogzlr36sglHATZ7e0RFN2P6GJsXfq1oA9/5tE5zOjirTzy8KMMICA==",
+  "dgSpecHash": "HS2ehOfkeImOEyB62JtcHuAg6XPh9zdxr2uEJwwoEMj2lq1M+k90WANpvoCkl6+MgTG9h6HnxmUiLnlpwl8KqQ==",
   "success": true,
-  "projectFilePath": "C:\\My Directory\\Career\\Portfolio\\C#\\AmazonClone\\AmazonClone.csproj",
+  "projectFilePath": "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Scott\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Scott\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
