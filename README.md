@@ -1,5 +1,10 @@
 # mysql-authenticator
 
+The line:
+  string databaseEndpoint = @"server=localhost;userid=root;password=TempPassword;database=amazonclonedb";
+in DBAccessor.cs can be changed to connect to your own local MySQL database. 
+NOTE: Project was previously called AmazonClone, hence the database name.
+
 Run using "dotnet run" while in project directory
 
 I created this project in order to gain more experience using the SQL language and connecting to databases such as MySQL. I learned how to use commands like
