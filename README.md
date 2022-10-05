@@ -1,7 +1,7 @@
 # mysql-authenticator
 
 The line:  
--- 'string databaseEndpoint = @"server=localhost;userid=root;password=TempPassword;database=amazonclonedb";' --
+-- 'string databaseEndpoint = @"server=localhost;userid=root;password=TempPassword;database=amazonclonedb";' --   
 in DBAccessor.cs can be changed to connect to your own local MySQL database.
 
 NOTE: Project was previously called AmazonClone, hence the database name.
