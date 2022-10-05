@@ -1,7 +1,7 @@
 using System;
-using AmazonClone.src.Data;
+using MySQlAuthenticator.src.Data;
 
-namespace AmazonClone.src.ConsoleUI 
+namespace MySQlAuthenticator.src.ConsoleUI 
 {
     class AdminUI : CommandUI
     {

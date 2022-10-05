@@ -904,9 +904,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj",
-      "projectName": "AmazonClone",
-      "projectPath": "C:\\My Directory\\Github\\mysql-authenticator\\AmazonClone.csproj",
+      "projectUniqueName": "C:\\My Directory\\Github\\mysql-authenticator\\MySQL-Authenticator.csproj",
+      "projectName": "MySQL-Authenticator",
+      "projectPath": "C:\\My Directory\\Github\\mysql-authenticator\\MySQL-Authenticator.csproj",
       "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
       "outputPath": "C:\\My Directory\\Github\\mysql-authenticator\\obj\\",
       "projectStyle": "PackageReference",

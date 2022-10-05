@@ -1,11 +1,11 @@
 ﻿using System;
-using AmazonClone.src.Data;
+using MySQlAuthenticator.src.Data;
 
-namespace AmazonClone.src.ConsoleUI {
+namespace MySQlAuthenticator.src.ConsoleUI {
     class WelcomeUI {
         private static string Username = "";
         static void Main(string[] args) {
-            Console.WriteLine("Welcome to Amazon Clone.");
+            Console.WriteLine("Welcome to MySQL Authenticator.");
             AwaitInput();
         }
         static void AwaitInput() {
@@ -72,6 +72,7 @@ namespace AmazonClone.src.ConsoleUI {
                 if (!logInAccessor.UserNameExists(username)) {
                     logInAccessor.InsertUser(username, password);
                     Console.WriteLine("\nUser created.");
+                    AwaitInput();
                 } else {
                     Console.WriteLine("\nUsername already exists.");
                     AwaitInput();

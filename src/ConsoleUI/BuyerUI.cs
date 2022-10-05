@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmazonClone.src.ConsoleUI {
+namespace MySQlAuthenticator.src.ConsoleUI {
     class BuyerUI {
 
     }

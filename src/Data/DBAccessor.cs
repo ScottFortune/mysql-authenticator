@@ -1,7 +1,7 @@
 using System;
 using MySql.Data.MySqlClient;
 
-namespace AmazonClone.src.Data {
+namespace MySQlAuthenticator.src.Data {
     abstract class DBAccessor {
         protected MySqlConnection connection;
         

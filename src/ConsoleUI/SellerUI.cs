@@ -1,6 +1,6 @@
 using System;
 
-namespace AmazonClone.src.ConsoleUI 
+namespace MySQlAuthenticator.src.ConsoleUI 
 {
     class SellerUI : CommandUI
     {
