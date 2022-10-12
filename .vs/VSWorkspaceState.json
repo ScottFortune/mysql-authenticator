@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\Data"
   ],
-  "SelectedNode": "\\AmazonClone.sln",
+  "SelectedNode": "\\src\\Data\\LogInAccessor.cs",
   "PreviewInSolutionExplorer": false
 }
